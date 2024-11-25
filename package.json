@@ -1,5 +1,5 @@
 {
-  "homepage": "https://obigreen.github.io/lingva-ai",
+  "homepage": "https://oGreenLaba.github.io/lingva-ai",
   "name": "lingva-ai",
   "version": "0.1.0",
   "private": true,
@@ -13,7 +13,13 @@
     "@types/react-dom": "^18.0.0",
     "@types/react-router-dom": "^5.3.3",
     "@types/styled-components": "^5.1.34",
+    "axios": "^1.7.7",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
     "gh-pages": "^6.1.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.7.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.26.2",
@@ -28,7 +34,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "start-server": "node server/server.js"
   },
   "eslintConfig": {
     "extends": [
@@ -47,5 +54,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "git@github.com:oGreenLaba/lingva-ai.git",
+  "author": "Sergey Budyakin <youshtuchka@gmail.com>",
+  "license": "MIT"
 }
