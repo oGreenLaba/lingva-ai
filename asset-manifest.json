@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lingva-ai/static/css/main.e6c13ad2.css",
+    "main.js": "/lingva-ai/static/js/main.6a759464.js",
+    "static/js/453.ff244f73.chunk.js": "/lingva-ai/static/js/453.ff244f73.chunk.js",
+    "static/media/icons-sprite.svg": "/lingva-ai/static/media/icons-sprite.bd44cc4ba9a5ef3e331d6ef0e1796b39.svg",
+    "static/media/logo.svg": "/lingva-ai/static/media/logo.abeef855dd09b3ea05ede7f944a7c8ad.svg",
+    "index.html": "/lingva-ai/index.html",
+    "main.e6c13ad2.css.map": "/lingva-ai/static/css/main.e6c13ad2.css.map",
+    "main.6a759464.js.map": "/lingva-ai/static/js/main.6a759464.js.map",
+    "453.ff244f73.chunk.js.map": "/lingva-ai/static/js/453.ff244f73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6a759464.js"
+  ]
+}
